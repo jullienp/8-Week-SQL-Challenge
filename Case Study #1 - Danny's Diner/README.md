@@ -73,7 +73,7 @@ Danny has shared 3 key datasets for this case study.
 
 </details>
 
-
+***
 
 ## Case Study Questions and Solutions
 
@@ -508,3 +508,4 @@ Result:
 ***
 
 ## Reflection
+
