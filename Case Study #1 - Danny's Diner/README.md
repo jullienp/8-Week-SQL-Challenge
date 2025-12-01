@@ -18,7 +18,7 @@ Danny has shared 3 key datasets for this case study.
 
 <details>
 
-<summary>Table 1: sales<\summary>
+<summary>Table 1: sales</summary>
 
 | customer_id | order_date | product_id |
 | --- | --- | --- |
@@ -46,7 +46,7 @@ Danny has shared 3 key datasets for this case study.
 
 <details>
 
-<summary>Table 2: menu<\summary>
+<summary>Table 2: menu</summary>
 
 | product_id | product_name | price |
 |------------|--------------|-------|
@@ -58,7 +58,7 @@ Danny has shared 3 key datasets for this case study.
 
 <details>
 
-<summary>Table 3: members<\summary>
+<summary>Table 3: members</summary>
 
 | customer_id | join_date   |
 |-------------|-------------|
