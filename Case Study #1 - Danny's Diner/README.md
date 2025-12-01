@@ -10,8 +10,6 @@ For the full description for this case study, please visit: [Case Study #1 - Dan
 
 [Case Study Question and Solutions](#case-study-questions-and-solutions)
 
-[Reflection](#reflection)
-
 
 
 ## Introduction
@@ -506,6 +504,3 @@ Result:
 - With this table, Danny can see when the customer is a member when the order was taken and the ranking groups when orders were taken on the same day. 
 
 ***
-
-## Reflection
-
